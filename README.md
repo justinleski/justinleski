@@ -10,10 +10,14 @@ Currently exploring full-stack development but I have experience in Java, Python
     <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/medium/filled/linkedin.svg" alt="LinkedIn" height="30" />
     </a>
   &nbsp;
+     &nbsp;
+     &nbsp;
     <a href="https://x.com/justin_leski" target="_blank">
     <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/medium/filled/twitter.svg" alt="Twitter/X" height="30" />
     </a>
-  &nbsp; 
+  &nbsp;
+     &nbsp;
+     &nbsp;
     <a href="https://justinleski.com" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/globe-light.svg">
@@ -21,7 +25,9 @@ Currently exploring full-stack development but I have experience in Java, Python
       <img src="assets/globe-dark.svg" alt="My website" height="30" />
     </picture>
     </a>
-  &nbsp; 
+  &nbsp;
+     &nbsp;
+     &nbsp;
     <a href="mailto:sayhello@justinleski.com" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/envelope-light.svg">
