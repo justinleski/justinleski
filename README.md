@@ -1,8 +1,16 @@
 <h1 align="center">Hi, I'm Justin 👋</h1>
-<h3 align="center">I'm studying Computer Science (Honours) at the University of Guelph</h3>
+<h3 align="center">
+  Student, developer, 
+  <a href="https://astro.build" target="_blank" style="text-decoration: none; color: inherit;">
+    Astro enjoyer
+  </a>
+</h3>
 
 ### About
 Currently exploring full-stack development but I have experience in Java, Python, JavaScript, and C.  Always trying new things, check out [my portfolio](https://justinleski.com) to see what I've been up to recently.
+
+### Education
+I'm studying Computer Science (Honours) at the University of Guelph. I'm entering my third year, and looking for a co-op/internship for Fall 2025.
 
 ### Connect with me
 <div style="display: flex; align-items: center; justify-content: flex-start;">
