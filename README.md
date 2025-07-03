@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Justin 👋</h1>
 <h3 align="center">
-  Student, developer, 
-  <a href="https://astro.build" target="_blank" style="text-decoration: none; color: inherit;">
-    Astro enjoyer
-  </a>
+  Computer Science Student @ University of Guelph
 </h3>
 
 ### About
