@@ -7,7 +7,7 @@
 Currently exploring full-stack development but I have experience in Java, Python, JavaScript, and C.  Always trying new things, check out [my portfolio](https://justinleski.com) to see what I've been up to recently.
 
 ### Education
-I'm studying Computer Science (Honours) at the University of Guelph. Incoming @ Musashi fall 2025
+I'm studying Computer Science (Honours) at the University of Guelph. Incoming Software Developer @ RBC Amplify, Summer 2026
 
 ### Connect with me
 <div style="display: flex; align-items: center; justify-content: flex-start;">
