@@ -1,63 +1,63 @@
-<h1 align="center">Hi, I'm Justin 👋</h1>
+
+<h1 align="center">Hi, I'm Justin 🐝</h1>
 <h3 align="center">
-  Computer Science Student @ University of Guelph
+  Computer Science @ the University of Guelph
 </h3>
 
 ### About
-Currently exploring full-stack development but I have experience in Java, Python, JavaScript, and C.  Always trying new things, check out [my portfolio](https://justinleski.com) to see what I've been up to recently.
+I'm a Computer Science student at the University of Guelph, interested in backend engineering and exploring distributed systems
 
-### Education
-I'm studying Computer Science (Honours) at the University of Guelph. Prev @ RBC Amplify
+I like building things to better understand how they work. You can find some of those experiments on my [portfolio](https://justinleski.com/).
 
 ### Connect with me
-<div style="display: flex; align-items: center; justify-content: flex-start;">
-    <a href="https://linkedin.com/in/justinleski" target="_blank">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/medium/filled/linkedin.svg" alt="LinkedIn" height="30" />
-    </a>
-  &nbsp;
-     &nbsp;
-     &nbsp;
-    <a href="https://x.com/justin_leski" target="_blank">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/medium/filled/twitter.svg" alt="Twitter/X" height="30" />
-    </a>
-  &nbsp;
-     &nbsp;
-     &nbsp;
-    <a href="https://justinleski.com" target="_blank">
+
+<p align="center">
+  <!-- Website -->
+  <a href="https://justinleski.com">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/globe-light.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/globe-dark.svg">
-      <img src="assets/globe-dark.svg" alt="My website" height="30" />
+      <source media="(prefers-color-scheme: dark)"
+        srcset="https://img.shields.io/badge/Website-302c28?style=flat-square&labelColor=0e0d0c&logo=googlechrome&logoColor=f6f3ec">
+      <img src="https://img.shields.io/badge/Website-c8c1b2?style=flat-square&labelColor=f6f3ec&logo=googlechrome&logoColor=1f1f1b" alt="Website">
     </picture>
-    </a>
-  &nbsp;
-     &nbsp;
-     &nbsp;
-    <a href="mailto:sayhello@justinleski.com" target="_blank">
+  </a>
+  <!-- GitHub -->
+  <a href="https://github.com/justinleski">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/envelope-light.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/envelope-dark.svg">
-      <img src="assets/envelope-dark.svg" alt="Email me" height="30" />
+      <source media="(prefers-color-scheme: dark)"
+        srcset="https://img.shields.io/badge/GitHub-302c28?style=flat-square&labelColor=0e0d0c&logo=github&logoColor=f6f3ec">
+      <img src="https://img.shields.io/badge/GitHub-c8c1b2?style=flat-square&labelColor=f6f3ec&logo=github&logoColor=1f1f1b" alt="GitHub">
     </picture>
-    </a>
-  
-  
-</div>
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/justinleski">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+        srcset="https://img.shields.io/badge/LinkedIn-302c28?style=flat-square&labelColor=0e0d0c&logo=linkedin&logoColor=f6f3ec">
+      <img src="https://img.shields.io/badge/LinkedIn-c8c1b2?style=flat-square&labelColor=f6f3ec&logo=linkedin&logoColor=1f1f1b" alt="LinkedIn">
+    </picture>
+  </a>
+  <!-- X / Twitter -->
+  <a href="https://x.com/justin_leski">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+        srcset="https://img.shields.io/badge/X-302c28?style=flat-square&labelColor=0e0d0c&logo=x&logoColor=f6f3ec">
+      <img src="https://img.shields.io/badge/X-c8c1b2?style=flat-square&labelColor=f6f3ec&logo=x&logoColor=1f1f1b" alt="X">
+    </picture>
+  </a>
+  <!-- Email -->
+  <a href="mailto:sayhello@justinleski.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+        srcset="https://img.shields.io/badge/Email-302c28?style=flat-square&labelColor=0e0d0c&logo=gmail&logoColor=f6f3ec">
+      <img src="https://img.shields.io/badge/Email-c8c1b2?style=flat-square&labelColor=f6f3ec&logo=gmail&logoColor=1f1f1b" alt="Email">
+    </picture>
+  </a>
+</p>
 
-
-
-
-<!--
-**justinleski/justinleski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/meadow-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/meadow-light.png">
+    <img src="assets/meadow-light.png" alt="Meadow illustration" width="100%">
+  </picture>
+</p>
